@@ -33,9 +33,6 @@ connect with a project they love, even if it's not all over the internet already
 
 ## Technologies
 Website is writen in..
-Backend:
 - Python/Django
-Database: 
 - MySql
-Frontend:
 - AngularJS
