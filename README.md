@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/GCI-2015-GPW/SourceVote.svg)](https://gitter.im/GCI-2015-GPW/SourceVote)
+
 # SourceVote
 
 ## Overview
