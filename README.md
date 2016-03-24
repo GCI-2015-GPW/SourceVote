@@ -1,6 +1,6 @@
-[![Gitter](https://badges.gitter.im/GCI-2015-GPW/SourceVote.svg)](https://gitter.im/GCI-2015-GPW/SourceVote)
-
-# SourceVote
+<p align="center">
+  <img src="http://i.imgur.com/UJZYOnR.png" width="400px" alt="Source Vote logo"/>
+</p>
 
 ## Overview
 
@@ -39,3 +39,5 @@ Website is writen in..
 - Python/Django
 - MySql
 - AngularJS
+
+[![Gitter](https://badges.gitter.im/GCI-2015-GPW/SourceVote.svg)](https://gitter.im/GCI-2015-GPW/SourceVote)
